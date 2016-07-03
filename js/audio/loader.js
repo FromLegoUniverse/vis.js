@@ -1,6 +1,6 @@
 var song;
 var compiledSongData = "";
-
+console.log('r u even saving mate');
 function loadSong() {
     compiledSongData = "return {";
     var songs = [];
