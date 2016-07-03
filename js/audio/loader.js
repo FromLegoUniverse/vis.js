@@ -1,6 +1,6 @@
 var song;
 var compiledSongData = "";
-
+console.log('r u even saving mate');
 function loadSong() {
     compiledSongData = "return {";
     var songs = [];
@@ -15,6 +15,7 @@ function loadSong() {
                         lines.forEach(line => {
                             try {
                                 var s = new Song(line);
+                        console.log(line);
                                 songs[s.getId()] = s;
                                 count = count + 1;
                             } catch (ignored) {

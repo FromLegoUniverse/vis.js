@@ -1,8 +1,8 @@
 NOTE: This was modified for personal use, however can be used for getting data of audio files.
 
 Viewing:
-<br>(Development) https://rawgit.com/FromLegoUniverse/vis.js/gh-pages/index.html
-<br>(Production) https://cdn.rawgit.com/FromLegoUniverse/vis.js/gh-pages/index.html
+<br>(Development) https://rawgit.com/Drybones3363/vis.js/gh-pages/index.html
+<br>(Production) https://cdn.rawgit.com/Drybones3363/vis.js/gh-pages/index.html
 
 # vis.js (FromLegoUniverse/TheNexusAvenger's Modifications)
 

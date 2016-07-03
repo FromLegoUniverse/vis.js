@@ -5,7 +5,7 @@
 /* *********************** */
 /* * Personal Additions  * */
 /* *********************** */
-var baseURL = "https://rawgit.com/FromLegoUniverse/vis.js/gh-pages";  //Base URL for requests for rawgit.
+var baseURL = "https://rawgit.com/Drybones3363/vis.js/lettrythis";  //Base URL for requests for rawgit.
 var sampleRate = 30; //Frame rate of output. 60 is max for Roblox, but you can go higher/lower and may be hard to record
 var roundExportedNumbers = true; //If true, rounds the exported numbers. Uses less file space if true, but percision is lost.
 
